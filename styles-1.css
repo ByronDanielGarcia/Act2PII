@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(170, 214, 243);
+   }
+   h1 {
+    color: rgb(0, 61, 102);
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4vw;
+    margin-left: 2vw
+   }
+   p {
+    text-align: left;
+    font-family: Verdana;
+    font-size: 2vw;
+    margin-left: 2vw
+   }
+   .personalizado {
+    text-align: left;
+    font-family: Tahoma;
+    font-size: 1.2vw;
+    padding: 1.2vw;
+    border: 0.2vw solid rgb(0, 61, 102);
+    border-radius: 2vw
+   }
+
+   div {
+    width: 50vw
+   }
